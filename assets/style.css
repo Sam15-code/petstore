@@ -1,0 +1,60 @@
+
+.background-image{
+    background-image: url('./Banner--Animal-Services.jpg');
+    width: 1400px;
+    height: 350px;
+    background-repeat: no-repeat;
+   
+    
+}
+.pets{
+    padding: 10%;
+    text-align: center;
+    text-decoration: double;
+    background: #13293d;
+    background-position: 20%;
+    color: #fff;
+    width:100vw;
+}
+    .animals{
+        position: relative;
+        top: 0
+    
+    }
+.pets-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+    margin-left: 100px;
+    
+}
+
+.dog{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden; 
+    float: left;
+    margin-left: 150px;
+    
+}
+
+.dog2{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;   
+    margin-left: 150px;
+}
+
+.birds{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;   
+    margin-left: 150px;
+}
